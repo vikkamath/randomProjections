@@ -21,6 +21,7 @@ A lot of the networks tested using the projected matrices yeilded an error __wor
 be seen in the plot 
 
 ![alt text](https://github.com/vikkamath/randomProjections/blob/master/results.png "Results")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
