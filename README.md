@@ -20,7 +20,7 @@ The same MLP when initialized according to [1] and tested yielded an error of __
 A lot of the networks tested using the projected matrices yeilded an error __worse__ than __90.2%__ as can
 be seen in the plot 
 
-![alt text](https://github.com/vikkamath/randomProjections/blob/master/results.png, "Results")
+![alt text](https://github.com/vikkamath/randomProjections/blob/master/results.png "Results")
 
 
 
