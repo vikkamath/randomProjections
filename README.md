@@ -21,21 +21,18 @@ A lot of the networks tested using the projected matrices yeilded an error __wor
 be seen in the plot 
 
 ![alt text](https://github.com/vikkamath/randomProjections/blob/master/results.png "Results")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
+#### Code Instructions:   
 
+The code, although not very messy, is quite abstruce and is derived from (read: a modified version of)
+the MLP and Logistic Regression Code on deeplearning.net
 
+To run the code, install whatever dependencies the error messages from running __mlp2.py__ demand. 
+The code that randomly projects matrices can be found in __randomProjections.py__.   
 
-
-
-
-
-
-
-
-
-
+Running __mlp2.py__ once runs one full experiments and makes calls to the other scripts
+as and when necessary
 
 
 
